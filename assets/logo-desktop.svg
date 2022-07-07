@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1228" height="677" viewBox="0 0 1228 677">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectángulo_163" fill="none" d="M0 0H317V325H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectángulo_207" d="M0 0H147.404V138.322H0z" class="cls-2"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#264b70"/>
+        </linearGradient>
+        <filter id="Elipse_1" width="1228" height="677" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="15"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .cls-10,.cls-12{fill:none}.cls-2{fill:#f5faff}.cls-8{fill:#fff}.cls-9{clip-path:url(#clip-path)}.cls-10,.cls-12{stroke:#0071bc;stroke-miterlimit:10}.cls-10{stroke-width:24px}.cls-11{fill:#2c75b4}
+        </style>
+    </defs>
+    <g id="Grupo_43" transform="translate(-1326 -97)">
+        <g filter="url(#Elipse_1)" transform="translate(1326 97)">
+            <ellipse id="Elipse_1-2" cx="605" cy="326.5" fill="url(#linear-gradient)" rx="605" ry="326.5" transform="translate(9)"/>
+        </g>
+        <g id="Grupo_26" transform="translate(1010.08 690.915)">
+            <text id="Hidro_Fachadas_S.A.S" fill="#fff" font-family="Roboto-Bold, Roboto" font-size="101px" font-weight="700" transform="translate(402.92 -108.915)">
+                <tspan x="0" y="0">Hid</tspan><tspan y="0" letter-spacing="0.016em">r</tspan><tspan y="0">o </tspan><tspan y="0" letter-spacing="-0.025em">F</tspan><tspan y="0">a</tspan><tspan y="0" letter-spacing="-0.017em">c</tspan><tspan y="0">hadas S.A.S</tspan>
+            </text>
+        </g>
+        <g id="Grupo_31" transform="translate(1745 138)">
+            <path id="Trazado_36" d="M200.712 94.532V12H12v301h293V94.532z" class="cls-8"/>
+            <g id="Grupo_28">
+                <g id="Grupo_27" class="cls-9">
+                    <path id="Trazado_37" d="M200.712 94.532V12H12v301h293V94.532z" class="cls-10"/>
+                </g>
+            </g>
+            <path id="Rectángulo_164" d="M0 0H173.813V218.468H0z" class="cls-8" transform="translate(131.187 94.532)"/>
+            <g id="Grupo_30">
+                <g id="Grupo_29" class="cls-9">
+                    <path id="Rectángulo_165" d="M0 0H173.813V218.468H0z" class="cls-10" transform="translate(131.187 94.532)"/>
+                </g>
+            </g>
+            <path id="Rectángulo_167" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(39.313 48.412)"/>
+            <path id="Rectángulo_168" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(39.313 48.412)"/>
+            <path id="Rectángulo_169" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(39.313 96.96)"/>
+            <path id="Rectángulo_170" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(39.313 96.96)"/>
+            <path id="Rectángulo_171" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(39.313 150.363)"/>
+            <path id="Rectángulo_172" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(39.313 150.363)"/>
+            <path id="Rectángulo_173" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(39.313 203.766)"/>
+            <path id="Rectángulo_174" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(39.313 203.766)"/>
+            <path id="Rectángulo_175" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(88.974 96.96)"/>
+            <path id="Rectángulo_176" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(88.974 96.96)"/>
+            <path id="Rectángulo_177" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(88.974 150.363)"/>
+            <path id="Rectángulo_178" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(88.974 150.363)"/>
+            <path id="Rectángulo_179" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(88.974 203.766)"/>
+            <path id="Rectángulo_180" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(88.974 203.766)"/>
+            <path id="Rectángulo_181" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(39.313 257.169)"/>
+            <path id="Rectángulo_182" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(39.313 257.169)"/>
+            <path id="Rectángulo_183" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(88.974 257.169)"/>
+            <path id="Rectángulo_184" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(88.974 257.169)"/>
+            <path id="Rectángulo_185" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(88.974 48.412)"/>
+            <path id="Rectángulo_186" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(88.974 48.412)"/>
+            <path id="Rectángulo_187" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(138.635 48.412)"/>
+            <path id="Rectángulo_188" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(138.635 48.412)"/>
+            <path id="Rectángulo_189" d="M0 0H24.83V24.274H0z" class="cls-11" transform="translate(163.466 126.089)"/>
+            <path id="Rectángulo_190" d="M0 0H24.83V24.274H0z" class="cls-12" transform="translate(163.466 126.089)"/>
+            <path id="Rectángulo_191" d="M0 0H24.83V24.274H0z" class="cls-11" transform="translate(163.466 184.347)"/>
+            <path id="Rectángulo_192" d="M0 0H24.83V24.274H0z" class="cls-12" transform="translate(163.466 184.347)"/>
+            <path id="Rectángulo_193" d="M0 0H24.83V24.274H0z" class="cls-11" transform="translate(163.466 242.605)"/>
+            <path id="Rectángulo_194" d="M0 0H24.83V24.274H0z" class="cls-12" transform="translate(163.466 242.605)"/>
+            <path id="Rectángulo_195" d="M0 0H24.83V24.274H0z" class="cls-11" transform="translate(208.161 126.089)"/>
+            <path id="Rectángulo_196" d="M0 0H24.83V24.274H0z" class="cls-12" transform="translate(208.161 126.089)"/>
+            <path id="Rectángulo_197" d="M0 0H24.83V24.274H0z" class="cls-11" transform="translate(208.161 184.347)"/>
+            <path id="Rectángulo_198" d="M0 0H24.83V24.274H0z" class="cls-12" transform="translate(208.161 184.347)"/>
+            <path id="Rectángulo_199" d="M0 0H24.83V24.274H0z" class="cls-11" transform="translate(208.161 242.605)"/>
+            <path id="Rectángulo_200" d="M0 0H24.83V24.274H0z" class="cls-12" transform="translate(208.161 242.605)"/>
+            <path id="Rectángulo_201" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(247.89 126.089)"/>
+            <path id="Rectángulo_202" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(247.89 126.089)"/>
+            <path id="Rectángulo_203" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(247.89 184.347)"/>
+            <path id="Rectángulo_204" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(247.89 184.347)"/>
+            <path id="Rectángulo_205" d="M0 0H24.831V24.274H0z" class="cls-11" transform="translate(247.89 242.605)"/>
+            <path id="Rectángulo_206" d="M0 0H24.831V24.274H0z" class="cls-12" transform="translate(247.89 242.605)"/>
+        </g>
+        <g id="Grupo_33" transform="translate(2323.243 354.382)">
+            <g id="Grupo_32" clip-path="url(#clip-path-3)">
+                <path id="Trazado_38" d="M14.007 21.846l18.182 23.771s9.092 19.016-13.636 19.016S.371 78.9.371 78.9s-4.544 14.257 31.818 9.5c0 0 9.092 0 0 28.524s27.272 9.51 22.728-14.261 18.182 0 18.182 0c15.593 15.17-.336-40.943 45.456 14.268 0-.007 54.544 9.5 13.634-23.778 0 0-31.818-14.261-36.362-14.261-27.764-4.964 81.151-64.535-.734-57.054-40.261 81.335-55.348-77.168-81.086 0" class="cls-2"/>
+                <path id="Trazado_39" d="M19.512 26.481a9.307 9.307 0 0 1-9.09 9.508 9.307 9.307 0 0 1-9.09-9.508 9.306 9.306 0 0 1 9.09-9.508 9.306 9.306 0 0 1 9.09 9.508" class="cls-2" transform="translate(1.312 21.514)"/>
+                <path id="Trazado_40" d="M47.024 11.525a6.825 6.825 0 1 1-13.636 0 6.825 6.825 0 1 1 13.636 0" class="cls-2" transform="translate(32.892 5.568)"/>
+                <path id="Trazado_41" d="M69.955 34.3a4.55 4.55 0 1 1-4.546-4.753 4.654 4.654 0 0 1 4.546 4.753" class="cls-2" transform="translate(59.961 37.459)"/>
+                <path id="Trazado_42" d="M63.019 62.122a9.1 9.1 0 1 1-9.092-9.508 9.307 9.307 0 0 1 9.092 9.508" class="cls-2" transform="translate(44.171 66.692)"/>
+                <path id="Trazado_43" d="M40.189 59.465a4.55 4.55 0 1 1-4.546-4.755 4.654 4.654 0 0 1 4.546 4.755" class="cls-2" transform="translate(30.637 69.349)"/>
+                <path id="Trazado_44" d="M12.713 48.982a4.654 4.654 0 0 1-4.546 4.755 4.76 4.76 0 0 1 0-9.51 4.654 4.654 0 0 1 4.546 4.755" class="cls-2" transform="translate(3.567 56.061)"/>
+            </g>
+        </g>
+    </g>
+</svg>
